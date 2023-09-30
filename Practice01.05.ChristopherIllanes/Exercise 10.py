@@ -10,12 +10,8 @@ print("juguetes vendidos", Juguetes_vendidos)
 
 Peso_total = (número_de_payasos * peso_Payaso) + (número_de_muñecas * peso_muñeca)
 
-print(número_de_payasos, "payasos vendidos")
-print(número_de_muñecas, "muñecas vendidads")
+print("Payasos vendidos", número_de_payasos)
+print("Muñecas vendidas", número_de_muñecas)
 
 print("peso de la caja", Peso_total, "kg")
-
-
-
-
 
